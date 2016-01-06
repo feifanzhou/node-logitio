@@ -39,7 +39,7 @@ Before you can use the plugin, you need to initialise it by passing it some setu
 The first two parameters are required and the third is a bunch of options:
 
 ```
-logit.init( uri, apiKey, options );
+logit.init( apiKey, options );
 ```
 
 ### init() parameters
