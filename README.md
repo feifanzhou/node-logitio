@@ -44,7 +44,6 @@ logit.init( apiKey, options );
 
 ### init() parameters
 
-- {String} uri - (required) URI of Logit.io endpoint.
 - {String} apiKey - (required) your Logit.io API Key, which grants your script access to the endpoint.
 - {Object} options - (optional) parameters with the following key names:
     - {Function} onSuccess - callback function to execute on successfully sending a message to Logit.io endpoint.
