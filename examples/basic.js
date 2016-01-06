@@ -9,6 +9,6 @@ var logit = require('../lib/');
 
 var apikey = process.argv[0];
 
-logit.init( apikey );
+logit.init( apikey, { logToConsole: true } );
 
 logit.log( 'hello, from basic node example' );
