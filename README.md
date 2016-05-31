@@ -3,8 +3,6 @@ Logit.io NodeJS Plugin
 
 This NodeJS Plugin provides an interface to send debug information to a [Logit.io](http://logit.io/) endpoint.
 
-[Logit.io](http://logit.io/) is [TODO]
-
 NodeJS 0.8 or greater is required.
 
 ## Contents
