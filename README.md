@@ -15,7 +15,7 @@ NodeJS 0.8 or greater is required.
 
 Logit.io can be installed with:
 
-[NPM](https://www.npmjs.com/):
+[NPM](https://www.npmjs.com/package/node-logitio):
 
 ```
 $ npm install node-logitio --save
@@ -26,7 +26,7 @@ $ npm install node-logitio --save
 Once the plugin is installed, you need to include it in your script using the `require` method.
 
 ```
-var logit = require('node-logit');
+var logit = require('node-logitio');
 ```
 
 You can then refer to the plugin from anywhere in your code as simply `logit`.
